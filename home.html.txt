@@ -1,0 +1,56 @@
+
+<head>
+<style type="text/css">
+.auto-style1 {
+	margin-left: 328px;
+	margin-right: 0px;
+}
+</style>
+</head>
+
+<body style="background-color: #FF0066">
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
+<span class="auto-style4" style="font-size: xx-large;"><strong>
+<span class="auto-style9" style="background-color: rgb(0, 255, 0); border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+HOME</span></strong></span></p>
+<div style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+	<div>
+		<table style="width: 100%;">
+			<tr>
+				<td class="auto-style3" style="background-color: rgb(0, 0, 0); text-align: center;">
+				&nbsp;</td>
+			</tr>
+		</table>
+		<img alt="Doctor" class="auto-style1" height="222" longdesc="Picture" src="pic%20img.jpg" width="777"><br>
+		<br>
+	</div>
+</div>
+<strong>
+<span class="auto-style6" style="border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<span class="auto-style6" style="border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+<strong><span class="auto-style7" style="background-color: rgb(255, 255, 255);">
+&nbsp;<a href="file:///F:/symptoms%20fever.html">SYMTOMS</a> </span></strong></span>
+</p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<strong>&nbsp;&nbsp; </strong></p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<span class="auto-style6" style="border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+<strong><span class="auto-style7" style="background-color: rgb(255, 255, 255);">
+&nbsp;<a href="file:///F:/prediction%20fever.html">PREDICTION</a> </span></strong>
+</span></p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<strong>&nbsp;&nbsp; </strong></p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<strong>
+<span class="auto-style8" style="background-color: rgb(255, 255, 255); border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+&nbsp;<a href="file:///F:/contact%20fever.html">CONTACT</a> </span></strong></p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+&nbsp;</p>
+<p class="auto-style5" style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<span class="auto-style6" style="border-bottom-style: solid; border-bottom-width: 1px; border-left-style: solid; border-left-width: 1px; border-right-style: solid; border-right-width: 1px; border-top-style: solid; border-top-width: 1px;">
+<strong><span class="auto-style7" style="background-color: rgb(255, 255, 255);">
+&nbsp;<a href="../../../../Primidhu%20Priya%20.%20V/Documents/My%20Web%20Sites/mysite4/feedback%20fever.html">FEEDBACK</a>
+</span></strong></span></p>
+</strong></body>
